@@ -1,0 +1,17 @@
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\obj\Debug\UnityVS.cardboard-myo.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\obj\Debug\Assembly-CSharp.dll
+C:\Users\Amaral\Documents\Unity 5 Projects\cardboard-myo\obj\Debug\Assembly-CSharp.pdb

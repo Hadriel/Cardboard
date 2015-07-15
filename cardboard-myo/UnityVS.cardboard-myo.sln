@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.cardboard-myo.CSharp", "UnityVS.cardboard-myo.CSharp.csproj", "{3786AFA6-EEBA-9586-E3F7-4596BA13C35B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.cardboard-myo.CSharp.Editor", "UnityVS.cardboard-myo.CSharp.Editor.csproj", "{B66F7956-E939-88BF-9E0F-3563A67AAF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3786AFA6-EEBA-9586-E3F7-4596BA13C35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3786AFA6-EEBA-9586-E3F7-4596BA13C35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3786AFA6-EEBA-9586-E3F7-4596BA13C35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3786AFA6-EEBA-9586-E3F7-4596BA13C35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66F7956-E939-88BF-9E0F-3563A67AAF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66F7956-E939-88BF-9E0F-3563A67AAF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66F7956-E939-88BF-9E0F-3563A67AAF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66F7956-E939-88BF-9E0F-3563A67AAF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
